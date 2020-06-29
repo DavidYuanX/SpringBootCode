@@ -22,7 +22,7 @@
         </encoder>
         <!--滚动策略-->
         <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
-            <fileNamePattern>/Volumes/work/学习/SpringBootCode/log/info.%d.log</fileNamePattern>
+            <fileNamePattern>/Volumes/Work/学习/SpringBootCode/log/info.%d.log</fileNamePattern>
         </rollingPolicy>
     </appender>
 
@@ -37,7 +37,7 @@
         </encoder>
         <!--滚动策略-->
         <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
-            <fileNamePattern>/Volumes/work/学习/SpringBootCode/log/error.%d.log</fileNamePattern>
+            <fileNamePattern>/Volumes/Work/学习/SpringBootCode/log/error.%d.log</fileNamePattern>
         </rollingPolicy>
     </appender>
 
