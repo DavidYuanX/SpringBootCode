@@ -2,6 +2,7 @@ package com.imooc.service;
 
 import com.imooc.dto.OrderDTO;
 import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 
 public interface OrderService {
 
@@ -12,7 +13,7 @@ public interface OrderService {
     OrderDTO findOne(String orderId);
 
     // 查询订单列表
-    Page<OrderDTO> findList(String buyerOpenid);
+    Page<OrderDTO> findList(String buyerOpenid,Pageable pageable);
 
     // 取消订单
     OrderDTO cancel(OrderDTO orderDTO);
