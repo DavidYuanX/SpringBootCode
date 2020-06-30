@@ -29,31 +29,32 @@ public class ProductServiceImplTest {
         Assert.assertEquals("123456",productInfo.getProductId());
     }
 
-//    @Test
-//    public void findUpAll() throws Exception {
-//        List<ProductInfo> productInfosList = productService.findUpAll();
-//        Assert.assertNotEquals(0,productInfosList.size());
-//    }
-//
-//    @Test
-//    public void findAll() throws Exception {
-//        PageRequest request = PageRequest.of(0,2);
-//        Page<ProductInfo> productInfoPage = productService.findAll(request);
-//        System.out.println((productInfoPage.getTotalElements()));
-//    }
-//
-//    @Test
-//    public void save() throws Exception {
-//        ProductInfo productInfo = new ProductInfo();
-//        productInfo.setProductId("123457");
-//        productInfo.setProductName("皮皮虾");
-//        productInfo.setProductPrice(new BigDecimal(3.2));
-//        productInfo.setProductStock(100);
-//        productInfo.setProductDescription("很好吃的虾");
-//        productInfo.setProductIcon("http://xxxx.j[g");
-//        productInfo.setProductStatus(ProductStatusEnum.DOWN.getCode());
-//        productInfo.setCatrgoryType(2);
-//        ProductInfo result = productService.save(productInfo);
-//        Assert.assertNotNull(result);
-//    }
+    @Test
+    public void findUpAll() throws Exception {
+        List<ProductInfo> productInfosList = productService.findUpAll();
+//        System.out.println(productInfosList.size());
+        Assert.assertNotEquals(0,productInfosList.size());
+    }
+
+    @Test
+    public void findAll() throws Exception {
+        PageRequest request = PageRequest.of(0,2);
+        Page<ProductInfo> productInfoPage = productService.findAll(request);
+        System.out.println((productInfoPage.getTotalElements()));
+    }
+
+    @Test
+    public void save() throws Exception {
+        ProductInfo productInfo = new ProductInfo();
+        productInfo.setProductId("123456");
+        productInfo.setProductName("皮皮粥");
+        productInfo.setProductPrice(new BigDecimal(3.2));
+        productInfo.setProductStock(100);
+        productInfo.setProductDescription("很好吃的粥");
+        productInfo.setProductIcon("http://xxxx.j[g");
+        productInfo.setProductStatus(ProductStatusEnum.DOWN.getCode());
+        productInfo.setCatrgoryType(6);
+        ProductInfo result = productService.save(productInfo);
+        Assert.assertNotNull(result);
+    }
 }

@@ -7,9 +7,11 @@ import com.imooc.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+@Service
 public class ProductServiceImpl implements ProductService {
 
     @Autowired
@@ -17,12 +19,12 @@ public class ProductServiceImpl implements ProductService {
 
     @Override
     public ProductInfo findOne(String productId) {
-        return repository.findById(productId).orElse(null);
+        return repository.findById(productId).get();
     }
 
     @Override
     public List<ProductInfo> findUpAll() {
-        return null;
+        return repository.findByProductStatus(ProductStatusEnum.UP.getCode());
     }
 
     @Override
