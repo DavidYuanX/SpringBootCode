@@ -28,11 +28,6 @@ public class ProductServiceImpl implements ProductService {
     }
 
     @Override
-    public List<ProductInfo> findAll() {
-        return repository.findByProductStatus(ProductStatusEnum.UP.getCode());
-    }
-
-    @Override
     public Page<ProductInfo> findAll(Pageable pageable) {
         return repository.findAll(pageable);
     }

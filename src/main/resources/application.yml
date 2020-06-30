@@ -12,3 +12,6 @@ logging:
     console: "%d - %msg%n"
   file:
     name: /Volumes/work/学习/SpringBootCode/log/sell.log
+server:
+  servlet:
+    context-path: /sell
