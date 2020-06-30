@@ -1,10 +1,10 @@
 package com.imooc.service.impl;
 
-import com.imooc.dataobject.OrderDTO;
 import com.imooc.dataobject.OrderDetail;
 import com.imooc.dataobject.OrderMaster;
 import com.imooc.dataobject.ProductInfo;
 import com.imooc.dto.CartDTO;
+import com.imooc.dto.OrderDTO;
 import com.imooc.enums.OrderStatusEnum;
 import com.imooc.enums.PayStatusEnum;
 import com.imooc.enums.ResultEnum;
@@ -20,11 +20,9 @@ import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.CollectionUtils;
-import sun.text.CollatorUtilities;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -33,7 +31,7 @@ public class OrderServiceImpl implements OrderService {
 
     @Autowired
     private ProductService productService;
-
+//
     @Autowired
     private OrderDetailRepository orderDetailRepository;
 
@@ -55,7 +53,7 @@ public class OrderServiceImpl implements OrderService {
                throw new SellException(ResultEnum.PRODUCT_NOT_EXIST);
            }
            // 2、 计算订单总价
-            orderAmount = orderDetail.getProductPrice()
+            orderAmount = productInfo.getProductPrice()
                     .multiply(new BigDecimal(orderDetail.getProductQuantity()))
                     .add(orderAmount);
            // 订单详情入库

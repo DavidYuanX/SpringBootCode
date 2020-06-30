@@ -1,8 +1,7 @@
 package com.imooc.service.impl;
 
-import com.imooc.dataobject.OrderMaster;
 import lombok.extern.slf4j.Slf4j;
-import com.imooc.dataobject.OrderDTO;
+import com.imooc.dto.OrderDTO;
 import com.imooc.dataobject.OrderDetail;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
@@ -39,19 +38,26 @@ public class OrderServiceImplTest {
         OrderDetail o1 = new OrderDetail();
         o1.setProductId("123456");
         o1.setProductQuantity(1);
+
+        OrderDetail o2 = new OrderDetail();
+        o2.setProductId("123458");
+        o2.setProductQuantity(10);
         orderDetailList.add(o1);
+        orderDetailList.add(o2);
+
         orderDTO.setOrderDetailList(orderDetailList);
 
         OrderDTO result = orderService.caeate(orderDTO);
 
         log.info("【创建订单】result={}",result);
+        Assert.assertNotNull(result);
     }
 
     @Test
     public void findOne() throws Exception {
-       OrderDTO result = orderService.findOne(ORDER_OPENID);
+       OrderDTO result = orderService.findOne("1593520766721242029");
        log.info("查询单个订单：result={}",result);
-        Assert.assertEquals(ORDER_OPENID,result.getOrderId());
+        Assert.assertEquals("1593520766721242029",result.getOrderId());
     }
 
     @Test

@@ -1,6 +1,6 @@
 package com.imooc.service;
 
-import com.imooc.dataobject.OrderDTO;
+import com.imooc.dto.OrderDTO;
 import org.springframework.data.domain.Page;
 
 public interface OrderService {

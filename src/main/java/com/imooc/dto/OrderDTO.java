@@ -1,20 +1,12 @@
-package com.imooc.dataobject;
+package com.imooc.dto;
 
-import com.imooc.enums.OrderStatusEnum;
-import com.imooc.enums.PayStatusEnum;
+import com.imooc.dataobject.OrderDetail;
 import lombok.Data;
-import org.hibernate.annotations.DynamicUpdate;
-
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Transient;
 import java.math.BigDecimal;
 import java.util.Date;
 import java.util.List;
 
-@Entity
 @Data
-@DynamicUpdate
 public class OrderDTO {
 
     // 订单Id
