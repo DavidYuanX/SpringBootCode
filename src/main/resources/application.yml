@@ -3,15 +3,27 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password: 123456
-#    url: jdbc:mysql://192.168.3.101/sell?characterEncoding=utf-8&useSSL=false
-    url: jdbc:mysql://192.168.0.104/sell?characterEncoding=utf-8&useSSL=false
+    url: jdbc:mysql://192.168.3.101/sell?characterEncoding=utf-8&useSSL=false
+#    url: jdbc:mysql://192.168.0.104/sell?characterEncoding=utf-8&useSSL=false
   jpa:
     show-sql: true
+  #jackson:
+  # default-property-inclusion: non_null #全局 去掉 类里面的 null
 logging:
   pattern:
     console: "%d - %msg%n"
   file:
     name: /Volumes/work/学习/SpringBootCode/log/sell.log
-server:
-  servlet:
-    context-path: /sell
+#server:
+#  servlet:
+#    context-path: /sell
+
+#  appID
+#  wx354379e10e087598
+#  appsecret
+#  0df1c96dbe90d0dd99619a4fa32ab8e1
+
+#https://open:
+#  weixin:
+#    qq:
+#      com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http://david888.natapp1.cc&response_type=code&scope=snsapi_base&state=STATE#wechat_redirec:

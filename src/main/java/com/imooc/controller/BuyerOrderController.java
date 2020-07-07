@@ -1,5 +1,7 @@
 package com.imooc.controller;
 
+
+import com.imooc.service.BuyerService;
 import com.imooc.VO.ResultVO;
 import com.imooc.converter.OrderForm2OrderDTOConverter;
 import com.imooc.dto.OrderDTO;
@@ -28,6 +30,9 @@ import java.util.Map;
 public class BuyerOrderController {
     @Autowired
     private OrderService orderService;
+
+   @Autowired
+   private BuyerService buyerService;
 
     // 创建订单
     @PostMapping("/create")
@@ -70,12 +75,21 @@ public class BuyerOrderController {
         return ResultVOUtil.success(orderDTOPage.getContent());
     }
     // 订单详情
+    @GetMapping("/detail")
+    public ResultVO<OrderDTO> detail(@RequestParam("openid") String openid,
+                                     @RequestParam("orderId") String orderId){
+        OrderDTO orderDTO = buyerService.findOrderOne(openid, orderId);
+        return ResultVOUtil.success(orderDTO);
+    }
 
     // 取消订单
+    @PostMapping("/cancel")
+    public ResultVO<OrderDTO> cancel(@RequestParam("openid") String openid,
+                                     @RequestParam("orderId") String orderId) {
+        buyerService.cancelOrder(openid, orderId);
+        return ResultVOUtil.success();
+    }
 }
-
-
-
 
 
 
