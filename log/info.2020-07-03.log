@@ -1,0 +1,34 @@
+Starting SellApplication on DaviddeMac-mini.local with PID 34623 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 66ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1313 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HHH000204: Processing PersistenceUnitInfo [name: default]
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+Starting ProtocolHandler ["http-nio-8080"]
+HikariPool-1 - Starting...
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000342: Could not obtain connection to query metadata : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'productCategoryRepository' defined in com.imooc.repository.ProductCategoryRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Cannot resolve reference to bean 'jpaMappingContext' while setting bean property 'mappingContext'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jpaMappingContext': Invocation of init method failed; nested exception is org.hibernate.service.spi.ServiceException: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Invocation of destroy method failed on bean with name 'entityManagerFactory': org.hibernate.service.spi.ServiceException: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+Shutting down ExecutorService 'applicationTaskExecutor'
+Pausing ProtocolHandler ["http-nio-8080"]
+Stopping service [Tomcat]
+Stopping ProtocolHandler ["http-nio-8080"]
+Destroying ProtocolHandler ["http-nio-8080"]
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
