@@ -1,0 +1,1729 @@
+Starting SellApplication on DaviddeMac-mini.local with PID 14052 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 53ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1260 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.428 seconds (JVM running for 3.942)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 14108 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 54ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1071 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 2.818 seconds (JVM running for 3.396)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 14194 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 61ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1088 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 2.978 seconds (JVM running for 3.837)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+进入auth
+进入auth
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 14208 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 59ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1120 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 2.963 seconds (JVM running for 3.417)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+进入auth
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 14626 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 70ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1334 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.668 seconds (JVM running for 4.278)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m14s837ms).
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 14657 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 68ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1341 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.613 seconds (JVM running for 4.235)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 14671 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 63ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1351 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.789 seconds (JVM running for 4.415)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 14796 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 62ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1250 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.417 seconds (JVM running for 4.067)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 14850 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 67ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1327 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.714 seconds (JVM running for 4.273)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 14919 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 74ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1356 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.784 seconds (JVM running for 4.466)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 14978 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 65ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1244 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.464 seconds (JVM running for 4.054)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m25s848ms).
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'code' is not present]
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'code' is not present]
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'returnUrl' is not present]
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 15040 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 64ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1261 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.445 seconds (JVM running for 4.074)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50s955ms).
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m7s213ms).
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 15129 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 68ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1553 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.752 seconds (JVM running for 4.329)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50s106ms).
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fwww.baidu.com#wechat_redirect] has been removed
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fwww.baidu.com#wechat_redirect] has been removed
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 15228 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 61ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1211 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.365 seconds (JVM running for 3.935)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 15237 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 64ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1198 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.338 seconds (JVM running for 3.877)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 15318 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 68ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1255 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.454 seconds (JVM running for 4.033)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 15333 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 64ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1208 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.357 seconds (JVM running for 3.907)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 15370 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 64ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1221 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.365 seconds (JVM running for 3.912)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 15385 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 65ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1193 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.367 seconds (JVM running for 3.912)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+The fragment in dispatch path [redirectUrl:redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+The fragment in dispatch path [redirectUrl:redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 15431 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 62ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1240 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.454 seconds (JVM running for 4.036)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m14s230ms).
+The fragment in dispatch path [redirectUrl:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx354379e10e087598&redirect_uri=http%3A%2F%2Fdavid888.natapp1.cc%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_base&state=http%3A%2F%2Fdavid888.natapp1.cc#wechat_redirect] has been removed
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 15900 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 76ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1436 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.763 seconds (JVM running for 4.422)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 16498 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 66ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1289 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.498 seconds (JVM running for 4.134)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 16737 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 64ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1300 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.519 seconds (JVM running for 4.167)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 16752 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 71ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1331 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.783 seconds (JVM running for 4.328)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 17220 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 70ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1321 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.69 seconds (JVM running for 4.356)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 17272 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 67ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1301 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.461 seconds (JVM running for 4.092)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 17317 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 73ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1364 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.938 seconds (JVM running for 4.636)
+Starting PayServiceImplTest on DaviddeMac-mini.local with PID 17321 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 91ms. Found 4 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Triggering deferred initialization of Spring Data repositories…
+Spring Data repositories initialized!
+Started PayServiceImplTest in 4.995 seconds (JVM running for 6.677)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting PayServiceImplTest on DaviddeMac-mini.local with PID 17325 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 87ms. Found 4 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Triggering deferred initialization of Spring Data repositories…
+Spring Data repositories initialized!
+Started PayServiceImplTest in 4.374 seconds (JVM running for 5.761)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 17393 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 65ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1301 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.55 seconds (JVM running for 4.124)
+Starting PayServiceImplTest on DaviddeMac-mini.local with PID 17419 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 76ms. Found 4 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Triggering deferred initialization of Spring Data repositories…
+Spring Data repositories initialized!
+Started PayServiceImplTest in 4.419 seconds (JVM running for 5.876)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting PayServiceImplTest on DaviddeMac-mini.local with PID 17445 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 149ms. Found 4 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started PayServiceImplTest in 6.44 seconds (JVM running for 8.272)
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m8s525ms).
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting PayServiceImplTest on DaviddeMac-mini.local with PID 17477 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 83ms. Found 4 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Triggering deferred initialization of Spring Data repositories…
+Spring Data repositories initialized!
+Started PayServiceImplTest in 4.516 seconds (JVM running for 5.967)
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m35s329ms).
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting PayServiceImplTest on DaviddeMac-mini.local with PID 17571 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 77ms. Found 4 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Triggering deferred initialization of Spring Data repositories…
+Spring Data repositories initialized!
+Started PayServiceImplTest in 4.5 seconds (JVM running for 6.034)
+微信支付 request=PayRequest(payTypeEnum=WXPAY_H5, orderId=1594196614752354322, orderAmount=0.01, orderName=微信点餐订单, openid=1594196614752354322)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting PayServiceImplTest on DaviddeMac-mini.local with PID 17605 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 81ms. Found 4 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Triggering deferred initialization of Spring Data repositories…
+Spring Data repositories initialized!
+Started PayServiceImplTest in 4.995 seconds (JVM running for 6.546)
+微信支付 request=PayRequest(payTypeEnum=WXPAY_H5, orderId=1594196614752354322, orderAmount=0.01, orderName=微信点餐订单, openid=1594196614752354322)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting PayServiceImplTest on DaviddeMac-mini.local with PID 17628 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 78ms. Found 4 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Triggering deferred initialization of Spring Data repositories…
+Spring Data repositories initialized!
+Started PayServiceImplTest in 4.43 seconds (JVM running for 5.755)
+微信支付 request=PayRequest(payTypeEnum=WXPAY_H5, orderId=1594196614752354322, orderAmount=0.01, orderName=微信点餐订单, openid=1594196614752354322)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 17640 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 59ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1072 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 2.815 seconds (JVM running for 3.304)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 17694 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 63ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1225 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.374 seconds (JVM running for 3.924)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting PayServiceImplTest on DaviddeMac-mini.local with PID 17729 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 71ms. Found 4 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting PayServiceImplTest on DaviddeMac-mini.local with PID 17740 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 82ms. Found 4 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Triggering deferred initialization of Spring Data repositories…
+Spring Data repositories initialized!
+Started PayServiceImplTest in 4.611 seconds (JVM running for 6.023)
+微信支付 request=PayRequest(payTypeEnum=WXPAY_H5, orderId=1594198741426588003, orderAmount=0.01, orderName=微信点餐订单, openid=1594198741426588003)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting PayServiceImplTest on DaviddeMac-mini.local with PID 17755 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 76ms. Found 4 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Triggering deferred initialization of Spring Data repositories…
+Spring Data repositories initialized!
+Started PayServiceImplTest in 4.502 seconds (JVM running for 5.858)
+微信支付 request=PayRequest(payTypeEnum=WXPAY_H5, orderId=1594198741426588003, orderAmount=0.01, orderName=微信点餐订单, openid=1594198741426588003)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting PayServiceImplTest on DaviddeMac-mini.local with PID 17780 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 77ms. Found 4 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Triggering deferred initialization of Spring Data repositories…
+Spring Data repositories initialized!
+Started PayServiceImplTest in 4.477 seconds (JVM running for 5.803)
+微信支付 request=PayRequest(payTypeEnum=WXPAY_H5, orderId=1594198741426588003, orderAmount=0.01, orderName=微信点餐订单, openid=1594198741426588003)
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51s563ms).
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting PayServiceImplTest on DaviddeMac-mini.local with PID 17810 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 81ms. Found 4 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Triggering deferred initialization of Spring Data repositories…
+Spring Data repositories initialized!
+Started PayServiceImplTest in 4.483 seconds (JVM running for 5.897)
+微信支付 request=PayRequest(payTypeEnum=WXPAY_H5, orderId=1594198741426588003, orderAmount=0.01, orderName=微信点餐订单, openid=oTgZpwfRyDB-vv3mUArJqgn_fv14)
+微信支付 PayResponse =PayResponse(prePayParams=null, payUri=null, appId=wxd898fcb01713c658, timeStamp=1594199210, nonceStr=W8ZbewThkT45xzkn, packAge=prepay_id=wx08170650006521e4bce6c71d1337785500, signType=MD5, paySign=367BA924251C5C630CE34A63B99DFDFF, orderAmount=null, orderId=null, outTradeNo=null)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting PayServiceImplTest on DaviddeMac-mini.local with PID 17851 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 76ms. Found 4 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Triggering deferred initialization of Spring Data repositories…
+Spring Data repositories initialized!
+Started PayServiceImplTest in 4.461 seconds (JVM running for 5.851)
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594198741426588003",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594199438",
+  "nonceStr": "2jThc46DB74AscyS",
+  "packAge": "prepay_id\u003dwx08171038794741e4bce6c71d1928175300",
+  "signType": "MD5",
+  "paySign": "0AB342B17CCBA0A0064E2D8D6C6EC518"
+}
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting PayServiceImplTest on DaviddeMac-mini.local with PID 17891 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 89ms. Found 4 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Triggering deferred initialization of Spring Data repositories…
+Spring Data repositories initialized!
+Started PayServiceImplTest in 4.845 seconds (JVM running for 6.48)
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594198741426588003",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594199679",
+  "nonceStr": "hFQS2mgIQLwJoGQ5",
+  "packAge": "prepay_id\u003dwx08171439848908e4bce6c71d1804510400",
+  "signType": "MD5",
+  "paySign": "5B3686D165AE6D91442348DC42CC90D5"
+}
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 17899 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 64ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1349 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.739 seconds (JVM running for 4.393)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 17912 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 78ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1375 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.721 seconds (JVM running for 4.353)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+Starting PayServiceImplTest on DaviddeMac-mini.local with PID 17940 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 80ms. Found 4 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Triggering deferred initialization of Spring Data repositories…
+Spring Data repositories initialized!
+Started PayServiceImplTest in 4.886 seconds (JVM running for 6.451)
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594198741426588003",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594199849",
+  "nonceStr": "V5eegbSYZ78F0uDc",
+  "packAge": "prepay_id\u003dwx08171729209844e4bce6c71d1031777800",
+  "signType": "MD5",
+  "paySign": "1CFA5BB44BA99C8F84F57D19389F9051"
+}
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 17965 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 71ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1311 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.74 seconds (JVM running for 4.475)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 18075 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 64ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1294 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.54 seconds (JVM running for 4.153)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 18115 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 72ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1346 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.953 seconds (JVM running for 4.652)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 18177 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 61ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1276 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.469 seconds (JVM running for 4.053)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594198741426588003",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594201088",
+  "nonceStr": "RRqPlOjF0KA7WKLi",
+  "packAge": "prepay_id\u003dwx08173808269053e4bce6c71d1018196900",
+  "signType": "MD5",
+  "paySign": "A06649EAA8204FFA36A690F20F999787"
+}
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 18404 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 70ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1495 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.977 seconds (JVM running for 4.671)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'orderId' is not present]
+Starting SellApplication on DaviddeMac-mini.local with PID 18448 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 72ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1298 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Pausing ProtocolHandler ["http-nio-8080"]
+Stopping service [Tomcat]
+Stopping ProtocolHandler ["http-nio-8080"]
+Destroying ProtocolHandler ["http-nio-8080"]
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting SellApplication on DaviddeMac-mini.local with PID 18469 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 75ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1386 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.749 seconds (JVM running for 4.384)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'orderId' is not present]
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 18519 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 76ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1407 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.91 seconds (JVM running for 4.605)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'orderId' is not present]
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'orderId' is not present]
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 18557 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 77ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1445 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.911 seconds (JVM running for 4.59)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'orderId' is not present]
