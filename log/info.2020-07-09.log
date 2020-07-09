@@ -1,0 +1,541 @@
+Starting SellApplication on DaviddeMac-mini.local with PID 21122 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 66ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1304 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.604 seconds (JVM running for 4.199)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594198741426588003",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594258947",
+  "nonceStr": "zK5KTZDmrwc5jsSO",
+  "packAge": "prepay_id\u003dwx09094227702354e4bce6c71d1588106300",
+  "signType": "MD5",
+  "paySign": "28F9ADF1619081EC119AEEB054A93BA8"
+}
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594198741426588003",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594258961",
+  "nonceStr": "FFHd1C7g1i3e1Ppa",
+  "packAge": "prepay_id\u003dwx09094241367741e4bce6c71d1206074300",
+  "signType": "MD5",
+  "paySign": "292F2F48958BEDDA562C1FFE7A7CD7A3"
+}
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 21158 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 65ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1312 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.707 seconds (JVM running for 4.344)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594198741426588003",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594258972",
+  "nonceStr": "LRKarHpsRXFaLnOk",
+  "packAge": "prepay_id\u003dwx09094252304885e4bce6c71d1260093200",
+  "signType": "MD5",
+  "paySign": "7A83A911E1D52B36DF9D3A317F891B84"
+}
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594198741426588003",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594259026",
+  "nonceStr": "0pfUT8UWnFuN5n8v",
+  "packAge": "prepay_id\u003dwx09094346644621e4bce6c71d1644864400",
+  "signType": "MD5",
+  "paySign": "528338FF61C207FA960A123B203FE076"
+}
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m35s250ms).
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 21233 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 74ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1364 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.712 seconds (JVM running for 4.377)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594198741426588003",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594259308",
+  "nonceStr": "0O4RahHVZWLPyJxX",
+  "packAge": "prepay_id\u003dwx09094827985026e4bce6c71d1104693800",
+  "signType": "MD5",
+  "paySign": "B14871561A979D705A38EF06CA7D736F"
+}
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594198741426588003",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594259310",
+  "nonceStr": "Bn6L3J7w4ZtTUkLQ",
+  "packAge": "prepay_id\u003dwx09094830920062e4bce6c71d1242104700",
+  "signType": "MD5",
+  "paySign": "E9AE0B2843E0F80620A778F098DBBBEA"
+}
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594198741426588003",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594259312",
+  "nonceStr": "jfk6vNmAjC6pIgVu",
+  "packAge": "prepay_id\u003dwx09094832115700e4bce6c71d1694291800",
+  "signType": "MD5",
+  "paySign": "AF3D56A8DD4343FA7CA81EAB77D34573"
+}
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594198741426588003",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594259313",
+  "nonceStr": "g9y1W8UplQ7ZOiXb",
+  "packAge": "prepay_id\u003dwx09094833250279e4bce6c71d1606060800",
+  "signType": "MD5",
+  "paySign": "B5A4DE7C35A88A0F9FC73D9B39BD8A27"
+}
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594198741426588003",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594259495",
+  "nonceStr": "RiDbGEVfxntg8KiF",
+  "packAge": "prepay_id\u003dwx09095135360207e4bce6c71d1922574600",
+  "signType": "MD5",
+  "paySign": "D76CCE015FD439771A89DA9C664AF2A4"
+}
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594198741426588003",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594259600",
+  "nonceStr": "fW6xc9WfMziPYqoI",
+  "packAge": "prepay_id\u003dwx09095320898210e4bce6c71d1978355100",
+  "signType": "MD5",
+  "paySign": "933ACFCF381DCB67BF27927EE7C1EF80"
+}
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 21294 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 65ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1342 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.692 seconds (JVM running for 4.355)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594259780176710579",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oWgdG0eCud2pb117cpldM4bEEhrc"
+}
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594259780176710579",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oWgdG0eCud2pb117cpldM4bEEhrc"
+}
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 21328 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 63ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1358 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.706 seconds (JVM running for 4.398)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594259780176710579",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594259907",
+  "nonceStr": "9Vp4L9jF2oDMXSDb",
+  "packAge": "prepay_id\u003dwx09095827618614e1e7d99c601105048700",
+  "signType": "MD5",
+  "paySign": "90935A187BA39ECCFE63732EDCC62E86"
+}
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594259780176710579",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594260029",
+  "nonceStr": "flRLl3abLqDn06R9",
+  "packAge": "prepay_id\u003dwx09100029569557e1e7d99c601288473600",
+  "signType": "MD5",
+  "paySign": "B9AF8293DE7AE1E0C3EE8B3A13D7C35A"
+}
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 21397 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 66ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1481 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 4.318 seconds (JVM running for 4.953)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 21441 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 64ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1460 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.794 seconds (JVM running for 4.431)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+SQL Error: 1366, SQLState: HY000
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 21476 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 65ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1309 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.548 seconds (JVM running for 4.224)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 11 ms
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594259780176710579",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594262763",
+  "nonceStr": "q0EHdcCiFqYjIu7I",
+  "packAge": "prepay_id\u003dwx09104603351999e1e7d99c601346464000",
+  "signType": "MD5",
+  "paySign": "167EFB92377CE0793093627F5AEAD631"
+}
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594259780176710579",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594262807",
+  "nonceStr": "EfxVoOOSvSgJpiyN",
+  "packAge": "prepay_id\u003dwx09104646978755e1e7d99c601174349800",
+  "signType": "MD5",
+  "paySign": "5F3166A8AD3077D6A0459B671591276A"
+}
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DaviddeMac-mini.local with PID 21983 (/Volumes/work/学习/SpringBootCode/target/classes started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 67ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1339 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Triggering deferred initialization of Spring Data repositories…
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Spring Data repositories initialized!
+Started SellApplication in 3.582 seconds (JVM running for 4.21)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594259780176710579",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594262876",
+  "nonceStr": "pGG7fi1PRRGZXWOB",
+  "packAge": "prepay_id\u003dwx09104755931003e1e7d99c601707664600",
+  "signType": "MD5",
+  "paySign": "9562B1AA253E7F6291FFA2C00BE5232E"
+}
+微信支付 request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1594259780176710579",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwfRyDB-vv3mUArJqgn_fv14"
+}
+微信支付 PayResponse ={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1594262882",
+  "nonceStr": "qM2FkMRLGrafiFoF",
+  "packAge": "prepay_id\u003dwx09104802069694e1e7d99c601338642800",
+  "signType": "MD5",
+  "paySign": "ED6A82570DC7D55D690D4D9036C3CE5F"
+}
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.

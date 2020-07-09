@@ -90,7 +90,7 @@ public class OrderServiceImpl implements OrderService {
 
     @Override
     public OrderDTO findOne(String orderId) {
-        OrderMaster orderMaster = orderMasterRepository.findById(orderId).get();
+        OrderMaster orderMaster = orderMasterRepository.findById(orderId).orElse(null);
         if(orderMaster == null){
             throw new SellException(ResultEnum.ORDER_NOT_EXIST);
         }

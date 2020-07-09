@@ -9,6 +9,8 @@ spring:
     show-sql: true
   #jackson:
   # default-property-inclusion: non_null #全局 去掉 类里面的 null
+  freemarker:
+    suffix: .ftl
 logging:
   pattern:
     console: "%d - %msg%n"
