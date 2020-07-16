@@ -3,7 +3,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password: 123456
-    url: jdbc:mysql://192.168.3.101/sell?characterEncoding=utf-8&useSSL=false
+    url: jdbc:mysql://192.168.3.11/sell?characterEncoding=utf-8&useSSL=false
 #    url: jdbc:mysql://192.168.0.104/sell?characterEncoding=utf-8&useSSL=false
   jpa:
     show-sql: true
@@ -18,15 +18,15 @@ logging:
     name: /Volumes/work/学习/SpringBootCode/log/sell.log
 
 wechat:
-#  mpAppId: wx354379e10e087598
-#  mpAppSecret: 0df1c96dbe90d0dd99619a4fa32ab8e1
+  mpAppId: wx354379e10e087598
+  mpAppSecret: 0df1c96dbe90d0dd99619a4fa32ab8e1
 
-  mpAppId: wxd898fcb01713c658
-  mpAppSecret: 29d8a650db31472aa87800e3b0d739f2
-  mchId: 1483469312
-  mchKey: 098F6BCD4621D373CADE4E832627B4F6
-  keyPath: /Volumes/work/学习/coding-117/doc/h5.p12
-  notifyUrl: http://david888.natapp1.cc/sell/pay/notify
+#  mpAppId: wxd898fcb01713c658
+#  mpAppSecret: 29d8a650db31472aa87800e3b0d739f2
+#  mchId: 1483469312
+#  mchKey: 098F6BCD4621D373CADE4E832627B4F6
+#  keyPath: /Volumes/work/学习/coding-117/doc/h5.p12
+#  notifyUrl: http://david888.natapp1.cc/sell/pay/notify
 
 server:
   servlet:

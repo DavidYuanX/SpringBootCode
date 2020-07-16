@@ -13,6 +13,7 @@ import com.imooc.excetion.SellException;
 import com.imooc.repository.OrderDetailRepository;
 import com.imooc.repository.OrderMasterRepository;
 import com.imooc.service.OrderService;
+import com.imooc.service.PayService;
 import com.imooc.service.ProductService;
 import com.imooc.utils.KeyUtil;
 import lombok.extern.slf4j.Slf4j;
@@ -42,6 +43,9 @@ public class OrderServiceImpl implements OrderService {
 
     @Autowired
     private OrderMasterRepository orderMasterRepository;
+
+    @Autowired
+    private PayService payService;
 
     @Override
     @Transactional // 一旦异常 就回滚 不做任何操作
@@ -143,6 +147,7 @@ public class OrderServiceImpl implements OrderService {
         // 如果支付 退款
         if(orderDTO.getOrderStatus().equals(PayStatusEnum.SUCCESS.getCode())){
             //TODO 如果支付 退款
+            payService.refund(orderDTO);
         }
         return orderDTO;
     }
@@ -190,6 +195,14 @@ public class OrderServiceImpl implements OrderService {
             throw new SellException(ResultEnum.ORDER_UPDATE_FAIL);
         }
         return orderDTO;
+    }
+
+    @Override
+    public Page<OrderDTO> findList(Pageable pageable){
+        Page<OrderMaster> orderMasterPage = orderMasterRepository.findAll(pageable);
+
+        List<OrderDTO> orderDTOList = OrderMaster20rderDTOConverter.convert(orderMasterPage.getContent());
+        return  new PageImpl<>(orderDTOList,pageable,orderMasterPage.getTotalElements());
     }
 }
 
