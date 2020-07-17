@@ -42,7 +42,7 @@ public class BuyerProductController {
 //        }
         // 精简方法（Java8, lambda)
         List<Integer> categoryTypeList = productInfoList.stream()
-                .map(e -> e.getCatrgoryType())
+                .map(e -> e.getCategoryType())
                 .collect(Collectors.toList());
         List<ProductCategory> productCategoryList = categoryService.findByCategoryTypeIn(categoryTypeList);
 
@@ -55,7 +55,7 @@ public class BuyerProductController {
             prductVo.setCategoryName(productCategory.getCategoryName());
             List<ProductInfoVO> productInfoVOList = new ArrayList<>();
             for(ProductInfo productInfo : productInfoList){
-                if(productInfo.getCatrgoryType().equals(productCategory.getCategoryType())){
+                if(productInfo.getCategoryType().equals(productCategory.getCategoryType())){
                     ProductInfoVO productInfoVO = new ProductInfoVO();
                     BeanUtils.copyProperties(productInfo,productInfoVO);
                     productInfoVOList.add(productInfoVO);

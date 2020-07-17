@@ -53,7 +53,7 @@ public class ProductServiceImplTest {
         productInfo.setProductDescription("很好吃的虾");
         productInfo.setProductIcon("http://xxxx.j[g");
         productInfo.setProductStatus(ProductStatusEnum.DOWN.getCode());
-        productInfo.setCatrgoryType(5);
+        productInfo.setCategoryType(5);
         ProductInfo result = productService.save(productInfo);
         Assert.assertNotNull(result);
     }

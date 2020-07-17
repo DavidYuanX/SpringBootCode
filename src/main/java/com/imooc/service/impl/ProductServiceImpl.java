@@ -45,7 +45,7 @@ public class ProductServiceImpl implements ProductService {
     @Transactional
     public void increaseStock(List<CartDTO> cartDTOList) {
         for (CartDTO cartDTO: cartDTOList) {
-            ProductInfo productInfo = repository.findById(cartDTO.getProductId()).get();
+            ProductInfo productInfo = repository.findById(cartDTO.getProductId()).orElse(null);
             if(productInfo == null){
                 throw  new SellException(ResultEnum.PRODUCT_NOT_EXIST);
             }
@@ -59,7 +59,7 @@ public class ProductServiceImpl implements ProductService {
     @Transactional
     public void decreaseStock(List<CartDTO> cartDTOList) {
         for (CartDTO cartDTO: cartDTOList){
-            ProductInfo productInfo = repository.findById(cartDTO.getProductId()).get();
+            ProductInfo productInfo = repository.findById(cartDTO.getProductId()).orElse(null);
             if(productInfo == null){
                 throw  new SellException(ResultEnum.PRODUCT_NOT_EXIST);
             }
@@ -73,5 +73,36 @@ public class ProductServiceImpl implements ProductService {
             productInfo.setProductStock(result);
             repository.save(productInfo);
         }
+    }
+
+    @Override
+    public ProductInfo OnSale(String productId) {
+        ProductInfo productInfo = repository.findById(productId).orElse(null);
+        if(productInfo == null){
+            throw new SellException(ResultEnum.PRODUCT_NOT_EXIST);
+        }
+        if(productInfo.getProductStatusEnum() == ProductStatusEnum.UP){
+            throw new SellException(ResultEnum.PRODUCT_STATUS_ERROR);
+        }
+
+        productInfo.setProductStatus(ProductStatusEnum.UP.getCode());
+
+        return repository.save(productInfo);
+    }
+
+    @Override
+    public ProductInfo OffSale(String productId) {
+        ProductInfo productInfo = repository.findById(productId).orElse(null);
+
+        if(productInfo == null){
+            throw new SellException(ResultEnum.PRODUCT_NOT_EXIST);
+        }
+        if(productInfo.getProductStatusEnum() == ProductStatusEnum.DOWN){
+            throw new SellException(ResultEnum.PRODUCT_STATUS_ERROR);
+        }
+
+        productInfo.setProductStatus(ProductStatusEnum.DOWN.getCode());
+
+        return repository.save(productInfo);
     }
 }

@@ -1,10 +1,17 @@
 package com.imooc.dataobject;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.imooc.enums.ProductStatusEnum;
+import com.imooc.utils.EnumUtil;
 import lombok.Data;
+import org.hibernate.annotations.DynamicUpdate;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import java.io.Serializable;
 import java.math.BigDecimal;
+import java.util.Date;
+
 
 @Entity
 @Data
@@ -31,5 +38,13 @@ public class ProductInfo {
     private Integer productStatus;
 
     // 类目编号
-    private Integer catrgoryType;
+    private Integer categoryType;
+
+    private Date createTime;
+
+    private Date updateTime;
+
+    public ProductStatusEnum getProductStatusEnum() {
+        return EnumUtil.getByCode(productStatus, ProductStatusEnum.class);
+    }
 }

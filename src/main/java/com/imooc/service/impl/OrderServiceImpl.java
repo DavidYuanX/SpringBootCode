@@ -125,7 +125,7 @@ public class OrderServiceImpl implements OrderService {
         // 判断订单状态
         if(!orderDTO.getOrderStatus().equals(OrderStatusEnum.NEW.getCode())){
             log.info("取消订单 订单状态不正确,order={},orderStatus={}",orderDTO.getOrderId(),orderDTO.getOrderStatus());
-            throw new SellException(ResultEnum.ORDERDETAIL_STATUS_ERROR);
+            throw new SellException(ResultEnum.ORDER_STATUS_ERROR);
         }
         // 修改订单状态
         orderDTO.setOrderStatus(OrderStatusEnum.CANCEL.getCode());
@@ -155,10 +155,10 @@ public class OrderServiceImpl implements OrderService {
     @Override
     public OrderDTO finish(OrderDTO orderDTO) {
         // 判断订单状态
-        if(orderDTO.getOrderStatus().equals(OrderStatusEnum.NEW.getCode())){
-            log.error("完结订单 订单状态不正确, orderID={},orderStatue={}",orderDTO.getOrderId(),orderDTO.getOrderStatus());
-            throw new SellException(ResultEnum.ORDERDETAIL_STATUS_ERROR);
-        }
+//        if(orderDTO.getOrderStatus().equals(OrderStatusEnum.NEW.getCode())){
+//            log.error("完结订单 订单状态不正确, orderID={},orderStatue={}",orderDTO.getOrderId(),orderDTO.getOrderStatus());
+//            throw new SellException(ResultEnum.ORDERDETAIL_STATUS_ERROR);
+//        }
 
         // 修改订单状态
         orderDTO.setOrderStatus(OrderStatusEnum.FINISHED.getCode());
@@ -177,12 +177,12 @@ public class OrderServiceImpl implements OrderService {
         // 判断订单状态
         if(!orderDTO.getOrderStatus().equals(OrderStatusEnum.NEW.getCode())){
             log.error("完结订单 订单状态不正确, orderID={},orderStatue={}",orderDTO.getOrderId(),orderDTO.getOrderStatus());
-            throw new SellException(ResultEnum.ORDERDETAIL_STATUS_ERROR);
+            throw new SellException(ResultEnum.ORDER_STATUS_ERROR);
         }
         //判断支付状态
         if(!orderDTO.getPayStatus().equals(PayStatusEnum.WAIT.getCode())){
             log.error("完结订单 订单状态不正确, orderID={},orderStatue={}",orderDTO.getOrderId(),orderDTO.getOrderStatus());
-            throw new SellException(ResultEnum.ORDERDETAIL_STATUS_ERROR);
+            throw new SellException(ResultEnum.ORDER_STATUS_ERROR);
         }
 
         //修改支付状态
@@ -204,6 +204,8 @@ public class OrderServiceImpl implements OrderService {
         List<OrderDTO> orderDTOList = OrderMaster20rderDTOConverter.convert(orderMasterPage.getContent());
         return  new PageImpl<>(orderDTOList,pageable,orderMasterPage.getTotalElements());
     }
+
+
 }
 
 

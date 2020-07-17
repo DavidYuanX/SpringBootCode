@@ -29,7 +29,7 @@ class ProductInfoRepositoryTest {
         productInfo.setProductDescription("很好喝的粥");
         productInfo.setProductIcon("http://xxxx.j[g");
         productInfo.setProductStatus(0);
-        productInfo.setCatrgoryType(2);
+        productInfo.setCategoryType(2);
         ProductInfo result = repository.save(productInfo);
         Assert.assertNotNull(result);
     }
