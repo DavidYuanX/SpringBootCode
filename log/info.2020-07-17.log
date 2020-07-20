@@ -1364,3 +1364,7 @@ Started SellApplication in 3.74 seconds (JVM running for 4.424)
 Initializing Spring DispatcherServlet 'dispatcherServlet'
 Initializing Servlet 'dispatcherServlet'
 Completed initialization in 7 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.

@@ -52,6 +52,7 @@
                             </select>
                         </div>
                         <input hidden type="text" name="productId" value="${(productInfo.productId)!''}">
+                        <input hidden type="text" name="productStatus" value="${(productInfo.productStatus)!''}">
                         <button type="submit" class="btn btn-default">提交</button>
                     </form>
                 </div>
