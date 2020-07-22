@@ -7,6 +7,9 @@ spring:
 #    url: jdbc:mysql://192.168.0.104/sell?characterEncoding=utf-8&useSSL=false
   jpa:
     show-sql: true
+  redis:
+    host: 192.168.3.11
+    port: 6379
   #jackson:
   # default-property-inclusion: non_null #全局 去掉 类里面的 null
   freemarker:
