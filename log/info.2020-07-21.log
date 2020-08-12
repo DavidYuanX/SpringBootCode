@@ -1,0 +1,67 @@
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellerInfoRepositoryTest on DaviddeMac-mini.local with PID 11074 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 103ms. Found 5 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Triggering deferred initialization of Spring Data repositories…
+Spring Data repositories initialized!
+Started SellerInfoRepositoryTest in 5.704 seconds (JVM running for 7.252)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellerInfoRepositoryTest on DaviddeMac-mini.local with PID 11086 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 87ms. Found 5 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Triggering deferred initialization of Spring Data repositories…
+Spring Data repositories initialized!
+Started SellerInfoRepositoryTest in 4.568 seconds (JVM running for 5.843)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellerServiceImplTest on DaviddeMac-mini.local with PID 11139 (started by david in /Volumes/work/学习/SpringBootCode)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+Finished Spring Data repository scanning in 95ms. Found 5 JPA repository interfaces.
+Initializing ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.17.Final
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Triggering deferred initialization of Spring Data repositories…
+Spring Data repositories initialized!
+Started SellerServiceImplTest in 4.702 seconds (JVM running for 6.117)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.

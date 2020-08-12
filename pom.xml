@@ -92,6 +92,7 @@
     </dependencies>
 
     <build>
+<!--        <finalName>sell</finalName>  // 修改jar 包名字-->
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>

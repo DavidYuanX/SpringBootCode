@@ -394,3 +394,7 @@ Completed initialization in 6 ms
 登录失败 无Token
 登录失败 无Token
 登录失败 无Token
+Closing JPA EntityManagerFactory for persistence unit 'default'
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
